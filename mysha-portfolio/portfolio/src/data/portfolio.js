@@ -14,7 +14,7 @@ export const profile = {
   cvFile: '/Mysha-Tamboli-CV.pdf',
   // TODO: replace with your real profile URLs
   socials: {
-    linkedin: 'https://linkedin.com/in/myshatamboli',
+    linkedin: 'https://www.linkedin.com/in/mysha-tamboli-3b156933a/',
     github: 'https://github.com/myshatamboli',
     email: 'mailto:myshatamboli2@gmail.com'
   }
