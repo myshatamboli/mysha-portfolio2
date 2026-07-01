@@ -75,41 +75,76 @@ export const about = {
 export const experience = [
   {
     org: "Let's Leap Sports Academy",
-    role: 'Deputy Manager / After School Care Activity Leader / Camp Activity Leader',
-    location: 'London',
-    period: '2024 — Present',
+    role: "Deputy Manager | Activity Leader | Camp Leader",
+    location: "London",
+    period: "2024 – Present",
     points: [
-      'Coordinated daily operations across after-school clubs and holiday camps.',
-      'Supervised staff, coordinated programme delivery, and supported day-to-day management.',
-      'Built relationships with parents, schools and external stakeholders.',
-      'Managed safeguarding, behaviour and welfare for children aged 4 to 12.'
+      "Progressed from Activity Leader to Deputy Manager, trusted to oversee the day-to-day operation of after-school clubs and holiday camps.",
+      "Led teams of staff, coordinated daily schedules and ensured safeguarding, health and safety, and operational standards were consistently maintained.",
+      "Designed and delivered engaging educational and sports programmes for children aged 4–12, creating safe, inclusive and enjoyable learning environments.",
+      "Built strong relationships with parents, schools and colleagues through clear communication, professionalism and leadership.",
+      "Managed behaviour confidently while adapting activities to suit different ages, abilities and learning needs.",
+      "Supported operational planning, staff coordination and problem solving in fast-paced environments serving hundreds of children."
     ]
   },
+
   {
-    org: 'Little Kickers',
-    role: 'Lead Assistant Football Coach',
-    location: 'London',
-    period: '2024 — 2025',
+    org: "Little Kickers",
+    role: "Lead Football Coach | Junior Business Partner",
+    location: "London",
+    period: "2021 – 2026",
     points: [
-      'Independently delivered football sessions for children aged 18 months to 10 years.',
-      'Built relationships with parents through regular feedback on development and progression.',
-      'Mentored newer coaches and supported delivery of large group sessions.',
-      'Coordinated tournaments and events with fellow coaches.'
+      "Promoted from Football Coach to Junior Business Partner after demonstrating leadership, reliability and consistent performance.",
+      "Planned and delivered football coaching sessions for children aged 18 months to 8 years, supporting confidence, teamwork and physical development.",
+      "Created original coaching games and session plans which were adopted across multiple classes.",
+      "Represented the organisation at community events, tournaments and promotional activities while engaging with parents and stakeholders.",
+      "Mentored assistant coaches and helped maintain high coaching standards across sessions.",
+      "Developed strong communication, public speaking, customer service and leadership skills through weekly delivery."
     ]
   },
+
   {
-    org: 'Three Bridges Primary School',
-    role: 'Work Experience',
-    location: 'London',
-    period: 'Jun 2024 — Jul 2024',
+    org: "Lampton Academy",
+    role: "Student Leadership Team Member",
+    location: "London",
+    period: "2025 – 2026",
     points: [
-      'Assisted teachers in classroom management and lesson delivery.',
-      'Supported students with learning activities, fostering a positive environment.',
-      'Helped organise and execute school events and activities.'
+      "Selected as one of only 12 Student Leaders from over 250 applicants to represent approximately 1,500 students across the school.",
+      "Organised and delivered large-scale school events including Open Evenings, Transition Days, Mock Interview Days and community initiatives.",
+      "Worked closely with senior leadership, governors, teachers and external stakeholders to improve the student experience.",
+      "Delivered speeches to prospective students and parents while representing the school at major events.",
+      "Led mentoring initiatives supporting younger students with organisation, confidence, wellbeing and academic development.",
+      "Developed project management, stakeholder engagement and leadership skills through strategic school-wide responsibilities."
+    ]
+  },
+
+  {
+    org: "Lampton Academy",
+    role: "Psychology Ambassador & Independent Researcher",
+    location: "London",
+    period: "2025 – 2026",
+    points: [
+      "Designed and conducted an independent psychology research project investigating whether AI or humans create stronger feelings of social connection.",
+      "Developed the full research methodology including experimental design, participant recruitment, ethics, data collection and statistical analysis.",
+      "Presented findings exploring empathy, responsiveness, enjoyment and perceived naturalness in AI-human interaction.",
+      "Represented the Psychology Department while supporting younger students with research skills and academic mentoring.",
+      "Strengthened research, analytical thinking and scientific communication through an end-to-end investigation."
+    ]
+  },
+
+  {
+    org: "Three Bridges Primary School",
+    role: "Work Experience",
+    location: "London",
+    period: "2023",
+    points: [
+      "Supported teachers in delivering classroom activities and creating engaging learning experiences for nursery pupils.",
+      "Assisted children's early learning, communication and social development through play-based education.",
+      "Helped organise school events and daily classroom activities while working collaboratively with teaching staff.",
+      "Developed patience, adaptability and communication skills within an educational setting."
     ]
   }
-]
-
+];
 export const projects = [
   {
   name: 'Kangara',
