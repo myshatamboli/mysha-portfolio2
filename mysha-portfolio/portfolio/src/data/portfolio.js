@@ -20,12 +20,11 @@ export const profile = {
   }
 }
 
-export const herostats = [
-  stats: [
-  { value: '$95,000', label: 'Tetr College Scholarship' },
-  { value: '2× Top 3', label: 'Global Innovation Hackathons' },
-  { value: '1 of 12', label: 'Student Leadership Team (250+ applicants)' },
-  { value: '£1,000', label: 'Charity Grant Secured' }
+export const heroStats = [
+  { label: '$95,000', sub: 'Tetr College Scholarship' },
+  { label: '2× Top 3', sub: 'Global Innovation Hackathons' },
+  { label: '1 of 12', sub: 'Student Leadership Team, 250+ applicants' },
+  { label: '£1,000', sub: 'Grant secured, First Give' }
 ]
 
 export const about = {
