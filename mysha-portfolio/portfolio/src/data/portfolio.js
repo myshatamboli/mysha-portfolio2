@@ -11,7 +11,7 @@ export const profile = {
   location: 'London, UK',
   email: 'myshatamboli2@gmail.com',
   phone: '+44 7440 764111',
-  cvFile: '/Mysha-Tamboli-CV.pdf',
+  cvFile: 'Mysha-Tamboli-CV.pdf',
   // TODO: replace with your real profile URLs
   socials: {
     linkedin: 'https://www.linkedin.com/in/mysha-tamboli-3b156933a/',
