@@ -110,7 +110,7 @@ export const experience = [
   }
 ]
 
-export const Ventures & Research = [
+export const projects = [
   {
   name: 'Kangara',
   tag: 'FemTech',
