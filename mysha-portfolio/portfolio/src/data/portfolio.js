@@ -20,12 +20,12 @@ tagline: 'Turning curiosity into companies. Building products that combine AI, p
   }
 }
 
-export const heroStats = [
+export const herostats = [
   stats: [
-  { value: '$95,000', label: 'Tetr Scholarship' },
-  { value: '2× Top 3', label: 'Global Hackathons' },
-  { value: '1 of 12', label: 'Student Leaders from 250+ applicants' },
-  { value: '£1,000', label: 'Grant secured for Muslim Hands' }
+  { value: '$95,000', label: 'Tetr College Scholarship' },
+  { value: '2× Top 3', label: 'Global Innovation Hackathons' },
+  { value: '1 of 12', label: 'Student Leadership Team (250+ applicants)' },
+  { value: '£1,000', label: 'Charity Grant Secured' }
 ]
 
 export const about = {
