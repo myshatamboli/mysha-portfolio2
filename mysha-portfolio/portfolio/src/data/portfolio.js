@@ -146,69 +146,122 @@ export const experience = [
   }
 ];
 export const projects = [
-  {
+{
   name: 'Kangara',
   tag: 'FemTech',
   accent: 'gold',
   role: 'Co-Founder',
-  description: 'A FemTech venture reimagining maternal reassurance during late pregnancy through wearable technology, research-led design and accessible maternal health innovation.',
-  points: [
-    "🏆 3rd Place internationally across teams from 52 countries.",
-    "Validated the concept through market research, competitor analysis and conversations with healthcare professionals.",
-    "Collaborated with biomedical engineers and maternal health experts to refine the product concept.",
-    "Led business strategy, product positioning and commercial planning.",
-    "Designed investor presentations, venture strategy and go-to-market roadmap."
+
+  description:
+    'A wearable maternal health platform designed to improve reassurance, confidence and preventative care during late pregnancy through intelligent sensing technology.',
+
+  problem:
+    'Millions of expectant mothers experience anxiety due to uncertainty around fetal wellbeing between hospital appointments.',
+
+  solution:
+    'Designed a comfortable wearable belt using embedded sensing technology and AI-assisted monitoring to provide reassurance while encouraging appropriate clinical escalation.',
+
+  impact: [
+    'Top 3 internationally at the Tetr Global Innovation Hackathon',
+    'Presented to international judges',
+    'Validated with healthcare and maternal wellbeing research',
+    'Developed business model, branding and product roadmap'
   ],
-  metrics: [
-    "$95K Scholarship",
-    "52 Countries",
-    "Top 3 Global",
-    "FemTech"
+
+  technologies: [
+    'AI',
+    'Research',
+    'Figma',
+    'React',
+    'Healthcare Innovation'
   ],
-  link: 'https://kangara-55d.vercel.app/'
-},
+
+  image: '/images/kangara.jpg',
+
+  website: 'https://kangara-55d.vercel.app/',
+
+  Instagram: 'https://www.instagram.com/kangara.maternal/',
+
+  featured: true
+}
   {
   name: 'Echolocation',
+
   tag: 'Accessibility AI',
+
   accent: 'violet',
+
   role: 'Co-Founder',
-  description: 'An AI accessibility venture building voice-first technology that enables blind, visually impaired and physically disabled users to interact with digital products more independently.',
-  points: [
-    'Designed Echora, an AI assistant capable of understanding screens and completing everyday digital tasks.',
-    'Conducted user, market and competitor research to validate accessibility needs and product direction.',
-    "Built the business model, pricing strategy and long-term product roadmap.",
-    "Focused on creating technology that increases independence rather than simply adding automation."
-    'Presented the venture to international judges, securing 3rd Place in an AI innovation hackathon.'
+
+  description:
+    'An AI accessibility platform helping blind and visually impaired users navigate digital products using natural voice conversations.',
+
+  problem:
+    'Most digital products still rely heavily on visual interfaces, creating barriers for millions of visually impaired users.',
+
+  solution:
+    'Developed Echora, a conversational AI assistant capable of completing digital tasks through voice-first interaction and contextual understanding.',
+
+  impact: [
+    'International Top 3 innovation award',
+    'Developed complete business strategy',
+    'Created interactive prototype',
+    'Built product roadmap and market validation'
   ],
-  metrics: [
-    "AI",
-    "Accessibility",
-    "Top 3",
-    "Voice First"
+
+  technologies: [
+    'AI',
+    'Accessibility',
+    'Voice UX',
+    'React',
+    'Figma'
   ],
-  link: 'https://echolocation.squarefire.com.au/'
+
+  image: '/images/echolocation.jpg',
+
+  website: 'https://echolocation.squarefire.com/',
+
+  featured: true
 },
   {
-  name: "Human × AI Social Connection",
-  tag: "Psychology Research",
-  accent: "violet",
-  role: "Independent Researcher",
+  name: 'Human vs AI Social Connection',
+
+  tag: 'Research',
+
+  accent: 'violet',
+
+  role: 'Independent Researcher',
+
   description:
-    "An independent psychology research project investigating whether conversations with AI can create feelings of social connection comparable to human interaction.",
-  points: [
-    "Designed a repeated-measures experimental study with counterbalanced conditions.",
-    "Measured empathy, enjoyment, responsiveness, naturalness and perceived social connection.",
-    "Collected, analysed and interpreted quantitative data while critically evaluating limitations.",
-    "Presented findings exploring the future relationship between psychology and artificial intelligence.",
-    "Published the research on LinkedIn to share insights with a wider professional audience."
+    'An experimental psychology study investigating whether people experience greater social connection after conversations with humans or AI chatbots.',
+
+  problem:
+    'As conversational AI becomes increasingly common, little is understood about how these interactions influence perceived connection and empathy.',
+
+  solution:
+    'Designed and conducted a repeated-measures experiment comparing AI and human conversations using quantitative psychological measures.',
+
+  impact: [
+    'Independent psychology research project',
+    'Experimental repeated-measures design',
+    'Counterbalanced methodology',
+    'Data analysis and presentation'
   ],
-  metrics: [
-    "Research",
-    "Psychology",
-    "AI",
-    "Human Behaviour"
+
+  technologies: [
+    'Psychology',
+    'Statistics',
+    'Research Methods',
+    'Data Analysis'
   ],
-  link: 'https://www.linkedin.com/feed/update/urn:li:activity:7475552640853775360/'
+
+  image: '/images/research.jpg',
+
+  website: 'https://www.linkedin.com/feed/update/urn:li:activity:7475552640853775360/',
+
+  github: '',
+
+  featured: true
 },
 ]
 
