@@ -7,7 +7,7 @@ export const profile = {
   name: 'Mysha Tamboli',
   initials: 'MT',
   role: 'Founder • Entrepreneur • AI & Human Behaviour Researcher',
-tagline: 'Turning curiosity into companies. Building products that combine AI, psychology and healthcare to solve real human problems.',
+  tagline: 'Building AI, FemTech and human-centred technology that solves real problems. Founder of Kangara and Echolocation. Independent psychology researcher exploring how AI shapes human connection. Tetr College of Business Scholar.',
   location: 'London, UK',
   email: 'myshatamboli2@gmail.com',
   phone: '+44 7440 764111',
