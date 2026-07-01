@@ -153,10 +153,17 @@ export const projects = [
   role: 'Co-Founder',
   description: 'A FemTech venture reimagining maternal reassurance during late pregnancy through wearable technology, research-led design and accessible maternal health innovation.',
   points: [
-    'Conducted market research, user interviews and competitor analysis to validate the product concept.',
-    'Collaborated with healthcare professionals, biomedical engineers and maternal wellbeing experts.',
-    'Designed the commercial model, product positioning and long-term venture strategy.',
-    'Presented the venture to international judges, earning 3rd Place in a global innovation hackathon spanning 52 countries.'
+    "🏆 3rd Place internationally across teams from 52 countries.",
+    "Validated the concept through market research, competitor analysis and conversations with healthcare professionals.",
+    "Collaborated with biomedical engineers and maternal health experts to refine the product concept.",
+    "Led business strategy, product positioning and commercial planning.",
+    "Designed investor presentations, venture strategy and go-to-market roadmap."
+  ],
+  metrics: [
+    "$95K Scholarship",
+    "52 Countries",
+    "Top 3 Global",
+    "FemTech"
   ],
   link: 'https://kangara-55d.vercel.app/'
 },
@@ -169,22 +176,37 @@ export const projects = [
   points: [
     'Designed Echora, an AI assistant capable of understanding screens and completing everyday digital tasks.',
     'Conducted user, market and competitor research to validate accessibility needs and product direction.',
-    'Developed the business model, go-to-market strategy and long-term product roadmap.',
+    "Built the business model, pricing strategy and long-term product roadmap.",
+    "Focused on creating technology that increases independence rather than simply adding automation."
     'Presented the venture to international judges, securing 3rd Place in an AI innovation hackathon.'
+  ],
+  metrics: [
+    "AI",
+    "Accessibility",
+    "Top 3",
+    "Voice First"
   ],
   link: 'https://echolocation.squarefire.com.au/'
 },
   {
-  name: 'AI & Human Connection',
-  tag: 'Psychology Research',
-  accent: 'violet',
-  role: 'Independent Researcher',
-  description: 'An independent psychology research project investigating whether conversations with AI can create feelings of social connection comparable to human interaction.',
+  name: "Human × AI Social Connection",
+  tag: "Psychology Research",
+  accent: "violet",
+  role: "Independent Researcher",
+  description:
+    "An independent psychology research project investigating whether conversations with AI can create feelings of social connection comparable to human interaction.",
   points: [
-    'Designed and conducted a repeated-measures experimental study with counterbalanced conditions.',
-    'Measured empathy, responsiveness, enjoyment and perceived social connection using structured questionnaires.',
-    'Analysed findings, evaluated limitations and presented implications for AI, psychology and digital communication.',
-    'Shared the research publicly through LinkedIn, reaching professionals across psychology, technology and business.'
+    "Designed a repeated-measures experimental study with counterbalanced conditions.",
+    "Measured empathy, enjoyment, responsiveness, naturalness and perceived social connection.",
+    "Collected, analysed and interpreted quantitative data while critically evaluating limitations.",
+    "Presented findings exploring the future relationship between psychology and artificial intelligence.",
+    "Published the research on LinkedIn to share insights with a wider professional audience."
+  ],
+  metrics: [
+    "Research",
+    "Psychology",
+    "AI",
+    "Human Behaviour"
   ],
   link: 'https://www.linkedin.com/feed/update/urn:li:activity:7475552640853775360/'
 },
