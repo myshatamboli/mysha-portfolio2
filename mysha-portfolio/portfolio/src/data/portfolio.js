@@ -29,13 +29,13 @@ export const heroStats = [
 ]
 
 export const about = {
-  summary: "I'm Mysha Tamboli, a London-based founder, researcher and student leader building at the intersection of technology, human behaviour and social impact. My work spans Kangara, a FemTech maternal wellbeing venture; Echolocation, an AI accessibility platform; and independent psychology research exploring how AI affects perceived social connection.",
+  summary: "I'm Mysha Tamboli, a London-based founder and researcher building at the intersection of technology, human behaviour and social impact. My work spans Kangara, a FemTech maternal wellbeing venture; Echolocation, an AI accessibility platform; and independent psychology research exploring how AI affects perceived social connection. I care about turning ideas into products that feel useful, human and genuinely impactful.",
  facts: [
-  { label: "Based in', value: "London, UK" },
-  { label: "studying', value: "A-Levels - Biology, Chemistry, Psychology" },
-  { label: "Scholarship', value: "Tetr College of Business - $95,000" }, 
+  { label: 'Based in', value: 'London, UK' },
+  { label: 'Building', value: 'Kangara · Echolocation · AI Research' },
+  { label: 'Scholarship', value: '$95,000 Tetr College of Business' },
   { label: 'Languages', value: 'English, Hindi, Urdu, Spanish, Arabic' }
-  ],
+],
   education: [
     {
       school: 'Lampton Academy, London',
@@ -118,6 +118,7 @@ export const projects = [
     role: 'Co-Founder',
     summary:
       'An award-winning maternal wellbeing wearable, designed to improve reassurance and confidence during late pregnancy.',
+    description: 'A maternal wellbeing FemTech venture designed to improve reassurance and confidence during late pregnancy through wearable technology, research-led product thinking and accessible maternal health support.',
     points: [
       'Conducted market research, user research, competitor analysis and business validation.',
       'Collaborated with professionals across biotechnology, biomedical engineering, healthcare and maternal wellbeing to validate the concept.',
@@ -133,6 +134,7 @@ export const projects = [
     role: 'Co-Founder',
     summary:
       'An AI-driven accessibility venture focused on improving independence for blind, visually impaired and paraplegic users.',
+    description: 'An AI accessibility venture helping blind, visually impaired and paraplegic users navigate digital products through voice-first interaction, screen understanding and conversation-led task support.',
     points: [
       'Designed Echora — a voice-first AI assistant concept enabling natural-conversation navigation of everyday tasks.',
       'Conducted user, market and competitor research to validate the product concept.',
@@ -148,6 +150,7 @@ export const projects = [
     role: 'Independent Researcher',
     summary:
       'A repeated-measures psychological study comparing perceived social connection following conversations with humans versus AI chatbots.',
+    description: 'An independent repeated-measures psychology study comparing perceived social connection after conversations with humans and AI chatbots, exploring empathy, responsiveness, enjoyment and naturalness.',
     points: [
       'Designed the research methodology and semi-structured conversation prompts; managed ethics and data collection.',
       'Applied statistical analysis across qualitative and quantitative data.',
