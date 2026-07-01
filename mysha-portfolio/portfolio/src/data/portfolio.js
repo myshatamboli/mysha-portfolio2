@@ -6,9 +6,9 @@
 export const profile = {
   name: 'Mysha Tamboli',
   initials: 'MT',
-  role: 'Founder · Researcher · Student Leader',
-  tagline: "Turning curiosity into action — through ventures, research and people.",
-  location: 'London, United Kingdom',
+  role: 'Founder • Entrepreneur • AI & Human Behaviour Researcher',
+tagline: 'Turning curiosity into companies. Building products that combine AI, psychology and healthcare to solve real human problems.',
+  location: 'London, UK',
   email: 'myshatamboli2@gmail.com',
   phone: '+44 7440 764111',
   cvFile: '/Mysha-Tamboli-CV.pdf',
@@ -21,20 +21,20 @@ export const profile = {
 }
 
 export const heroStats = [
-  { label: '$95,000', sub: 'Tetr Scholarship' },
-  { label: '1 of 12', sub: 'Student Leaders, 250+ applicants' },
-  { label: '2× 3rd Place', sub: 'Global Innovation Hackathons' },
-  { label: '£1,000', sub: 'Grant secured, First Give' }
+  stats: [
+  { value: '$95,000', label: 'Tetr Scholarship' },
+  { value: '2× Top 3', label: 'Global Hackathons' },
+  { value: '1 of 12', label: 'Student Leaders from 250+ applicants' },
+  { value: '£1,000', label: 'Grant secured for Muslim Hands' }
 ]
 
 export const about = {
-  summary:
-    "A proactive, entrepreneurial A-Level graduate with experience spanning project management, research, leadership, coaching, innovation and stakeholder engagement. Selected as one of twelve Student Leadership Team representatives from over 250 applicants, promoted to Deputy Manager at Let's Leap Sports Academy, and awarded a $95,000 Tetr College of Business scholarship — recognised for turning curiosity into action through independent research, venture development and leadership initiatives.",
-  facts: [
-    { label: 'Based in', value: 'London, UK' },
-    { label: 'Studying', value: 'A-Levels — Biology, Chemistry, Psychology' },
-    { label: 'Scholarship', value: 'Tetr College of Business — $95,000' },
-    { label: 'Languages', value: 'English, Hindi, Urdu, Spanish, Arabic' }
+  summary: "I'm Mysha Tamboli, a London-based founder, researcher and student leader building at the intersection of technology, human behaviour and social impact. My work spans Kangara, a FemTech maternal wellbeing venture; Echolocation, an AI accessibility platform; and independent psychology research exploring how AI affects perceived social connection.",
+ facts: [
+  { label: "Based in', value: "London, UK" },
+  { label: "studying', value: "A-Levels - Biology, Chemistry, Psychology" },
+  { label: "Scholarship', value: "Tetr College of Business - $95,000" }, 
+  { label: 'Languages', value: 'English, Hindi, Urdu, Spanish, Arabic' }
   ],
   education: [
     {
