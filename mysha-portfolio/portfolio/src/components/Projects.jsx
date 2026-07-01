@@ -37,9 +37,9 @@ export default function Projects() {
               >
                 <div className="flex items-center justify-between mb-5">
                   <span className={`chip ${accent.text} ${accent.chipBorder}`}>{p.tag}</span>
-                  {p.link && (
+                 {p.website && (
                     <a
-                      href={p.link}
+                     href={p.website}
                       target="_blank"
                       rel="noreferrer"
                       aria-label={`Visit ${p.name}`}
@@ -52,10 +52,11 @@ export default function Projects() {
 
                 <h3 className="font-display text-2xl font-semibold text-ink">{p.name}</h3>
                 <p className="text-xs font-mono text-ink-faint mt-1">{p.role}</p>
-                <p className="text-sm text-ink-dim mt-4 leading-relaxed">{p.summary}</p>
-
+               <p className="text-sm text-ink-dim mt-4 leading-relaxed">
+  {p.description}
+</p>
                 <ul className="mt-5 space-y-2.5 flex-1">
-                  {p.points.map((point) => (
+                  {p.impact.map((point) => (
                     <li key={point} className="text-[13px] text-ink-dim leading-relaxed flex gap-2.5">
                       <span className={`mt-1.5 w-1 h-1 rounded-full ${accent.dot} shrink-0`} />
                       {point}
@@ -63,9 +64,9 @@ export default function Projects() {
                   ))}
                 </ul>
 
-                {p.link && (
+                {p.website && (
                   <a
-                    href={p.link}
+                   href={p.website}
                     target="_blank"
                     rel="noreferrer"
                     className={`mt-6 inline-flex items-center gap-1.5 text-sm font-semibold ${accent.text}`}
