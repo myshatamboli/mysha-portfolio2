@@ -7,8 +7,7 @@ export const profile = {
   name: 'Mysha Tamboli',
   initials: 'MT',
   role: 'Founder • Entrepreneur • AI & Human Behaviour Researcher',
-  tagline: 'Technology. Psychology. Entrepreneurship.
-Building products at the intersection of AI, accessibility and maternal health.',
+  tagline: 'Technology. Psychology. Entrepreneurship. Building products at the intersection of AI, accessibility and maternal health.',
   location: 'London, UK',
   email: 'myshatamboli2@gmail.com',
   phone: '+44 7440 764111',
