@@ -181,9 +181,9 @@ export const projects = [
 
   Instagram: 'https://www.instagram.com/kangara.maternal/',
 
-  featured: true
-}
-  {
+    featured: true
+},
+{
   name: 'Echolocation',
 
   tag: 'Accessibility AI',
